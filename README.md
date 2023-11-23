@@ -5,13 +5,13 @@ Quality Assurance Engineer with a passion for:
 🌐 Building lasting relationships and delivering exceptional results.
 
 🚀 Skills & Characteristics
---> Curious & Self-Taught
---> Effective Communicator
---> Problem Solver
---> Empathetic Team Player
---> Time Management Guru
---> Adaptable & Creative
---> Resilient Leader
+Curious & Self-Taught
+Effective Communicator
+Problem Solver
+Empathetic Team Player
+Time Management Guru
+Adaptable & Creative
+Resilient Leader
 
 🌱 Currently Learning
 Continuous improvement in Quality Assurance.
